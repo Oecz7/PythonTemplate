@@ -1,0 +1,11 @@
+#nav1{
+    height: 128px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.logo{
+    width:"320px";
+     height:"94px"
+}
